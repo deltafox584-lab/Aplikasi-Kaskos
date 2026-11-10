@@ -1,17 +1,22 @@
-# kaskos
+# KasKos - Smart Kos Expense Tracker 📱💸
 
-A new Flutter project.
+KasKos adalah aplikasi mobile berbasis Android yang dirancang khusus untuk mahasiswa yang tinggal di tempat kos. Aplikasi ini memudahkan pencatatan pengeluaran harian dan dilengkapi dengan mode akses khusus untuk orang tua.
 
-## Getting Started
+## ✨ Fitur Utama
+* **Pencatatan Pengeluaran & Pemasukan:** Catat arus kas harian dengan cepat dan mudah.
+* **Lampiran Struk/Nota:** Mendukung unggah foto bukti transaksi atau struk belanja.
+* **Parent Monitoring Mode:** Mode *read-only* khusus bagi orang tua untuk memantau pengeluaran anak secara transparan dan *real-time*.
+* **Smart Analysis (Upcoming):** Analisis pengeluaran cerdas menggunakan integrasi AI.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+* **Framework:** Flutter (Dart)
+* **State Management:** Provider
+* **Backend & Database:** Firebase (Authentication, Cloud Firestore, Firebase Storage)
+* **UI/UX:** Material 3 Design
+* **AI Integration:** Google Gemini API
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan Proyek
+1. Clone repositori ini: `git clone https://github.com/username-anda/KasKos.git`
+2. Jalankan `flutter pub get` untuk mengunduh semua package.
+3. Tambahkan file konfigurasi `google-services.json` ke folder `android/app/`.
+4. Jalankan aplikasi menggunakan emulator atau perangkat fisik: `flutter run`
