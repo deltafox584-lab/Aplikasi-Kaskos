@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "113764938173",
+    "project_id": "kas-kos",
+    "storage_bucket": "kas-kos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113764938173:android:6dd2951ef90d6b244fe2d4",
+        "android_client_info": {
+          "package_name": "com.delta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5N0xHqKrxHFYXe_Nn_fh2GyoJSo0Eut8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113764938173:android:8d6af8f399daf7e14fe2d4",
+        "android_client_info": {
+          "package_name": "com.example.kaskos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5N0xHqKrxHFYXe_Nn_fh2GyoJSo0Eut8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
